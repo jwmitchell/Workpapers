@@ -1,0 +1,2 @@
+RAMP-2024_DR_MGRA_001-Q002Supp01Atch01-EPSS-processed-jwm.xlsx filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
